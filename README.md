@@ -9,9 +9,6 @@ User Registration
 Email Confirmation Sent To User
 ![2 1 Email-Sent for confirmation](https://github.com/user-attachments/assets/b340b782-38f9-4308-ba69-ce8b5f0a13be)
 
-Email Activated Confirmation
-![2 2 Email-Confirmation](https://github.com/user-attachments/assets/1609675d-8ef9-4866-af40-f1a2c9e0879d)
-
 User Dashboard
 ![3  User Dashborad](https://github.com/user-attachments/assets/a420a4cf-a09f-418e-b2c4-7a240a075000)
 
